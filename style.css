@@ -412,11 +412,11 @@ a img.aligncenter {
 }
 
 .in-box{
-	background: #8dbd56;
+	background: #008037;
 	display: inline-block;
 	padding: 40px;
 	position: relative;
-	border: 20px solid #664a3f;
+	border: 20px solid #FF1616;
 }
 .in-box::before{
 	border: 10px solid #ffffff;
@@ -439,11 +439,11 @@ a img.aligncenter {
 }
 
 .in-box a{
-	background: #664a3f;
+	background:#FF1616;
 	font-size: 18px;
 	padding: 10px 20px;
 	color: #ffffff;
-	box-shadow: 0 1px 5px #664a3f;
+	box-shadow: 0 1px 5px #FF1616;
 }
 .in-box a:hover{
 	color: #ffffff;
@@ -470,7 +470,7 @@ a img.aligncenter {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #8dbd56;
+	background: #008037;
 	border-radius: 100%;
 	-webkit-transform: scale(2);
 	transform: scale(2);
@@ -702,7 +702,7 @@ xclip
 }
 
 .sim-btn{
-	background: #664a3f;
+	background:#FF1616;
 	font-size: 18px;
 	padding: 10px 20px;
 	color: #ffffff;
@@ -765,7 +765,7 @@ xclip
 }
 .right-box-pro::before {
     content: "";
-    background: #8dbd56;
+    background: #008037;
     width: 100%;
     height: 100%;
     position: absolute;
@@ -775,7 +775,7 @@ xclip
 }
 .right-box-pro::after {
     content: "";
-    background: #8dbd56;
+    background: #008037;
     width: 100%;
     height: 100%;
     position: absolute;
@@ -799,7 +799,7 @@ xclip
 	width: 250px;
 	text-align: center;
 	line-height: 90px;
-	background: #8dbd56;
+	background: #008037;
 	margin: 0 auto;
 }
 .ser-icon i{
@@ -814,7 +814,7 @@ xclip
 
 .services-inner-box a{
 	color: #ffffff;
-	background: #664a3f;
+	background: #FF1616;
 	padding: 10px 18px;
 	font-size: 16px;
 }
@@ -1016,8 +1016,8 @@ xclip
 .desc {
     padding: 30px;
     position: relative;
-    background: #8dbd56;
-    border: 15px solid #8dbd56;
+    background: #008037;
+    border: 15px solid #008037;
 	width: calc(100% - 220px);
 	float: left;
 	margin-left: 30px;
@@ -1144,7 +1144,7 @@ xclip
     width: 120px;
     height: 120px;
     border-radius: 100px;
-    background: #8dbd56;
+    background: #008037;
     position: absolute;
     bottom: -60px;
     left: 0;
@@ -1166,7 +1166,7 @@ xclip
 }
 .pricingTable .month{
     font-size: 11px;
-    color: #664a3f;
+    color: #FF1616;
     text-transform: uppercase;
     position: absolute;
     top: 60px;
@@ -1187,13 +1187,13 @@ xclip
     content: "\f00c";
     font-family: 'FontAwesome';
     font-size: 20px;
-    color: #8dbd56;
+    color: #008037;
     margin-right: 10px;
 }
 .pricingTable .pricingTable-signup{
     display: inline-block;
     letter-spacing:2px;
-	background: #664a3f;
+	background: #FF1616;
 	font-size: 18px;
 	padding: 10px 20px;
 	color: #3a3a3a;
@@ -1226,7 +1226,7 @@ xclip
 }
 .our-team .team-content{
     width: 100%;
-    background: #664a3f;
+    background:#FF1616;
     color: #fff;
     padding: 15px 0 10px 0;
     position: absolute;
@@ -1243,7 +1243,7 @@ xclip
     content: "";
     width: 60%;
     height: 60px;
-    background: #664a3f;
+    background: #FF1616;
     position: absolute;
     top: -18px;
     transform: rotate(15deg);
@@ -1269,7 +1269,7 @@ xclip
     content: "";
     width: 7px;
     height: 93px;
-    background: #8dbd56;
+    background: #008037;
     position: absolute;
     top: -78px;
     z-index: -2;
@@ -1313,7 +1313,7 @@ xclip
 	display: inline-block;
 	width: 32px;
 	height: 32px;
-	background: #8dbd56;
+	background: #008037;
 }
 .our-team .social-links li:last-child a{
     margin-right: 0;
@@ -1595,7 +1595,7 @@ xclip
 
 .message-box ul{}
 .message-box ul li{
-	background: #664a3f;
+	background: #FF1616;
 	padding: 10px 20px;
 	margin-bottom: 10px;
 	color: #ffffff;
@@ -1604,7 +1604,7 @@ xclip
 	border-radius: 10px 5px;
 }
 .message-box ul li:hover{
-	background: #8dbd56;
+	background: #008037;
 }
 
 
@@ -1812,7 +1812,7 @@ hr.invis1 {
 }
 
 .filter-button-group button.active{
-	background: #8dbd56;
+	background: #008037;
 	color: #ffffff;
 	
 	box-shadow: -5px 5px 0px 0px rgba(0,0,0,.9);	
@@ -1825,7 +1825,7 @@ hr.invis1 {
 	font-weight: 600;
 	font-size: 14px;
 	cursor: pointer;
-	background: #664a3f;
+	background: #FF1616;
 	padding: 12px 40px;
 	border: none;
 	border-radius: 0px;
@@ -1880,7 +1880,7 @@ hr.invis1 {
 	right: 0px;
 	left: 0px;
 	margin: 0 auto;
-	background: #8dbd56;
+	background: #008037;
 	color: #fff;
 	padding: 10px 15px;
 	text-align: center;
@@ -1960,7 +1960,7 @@ hr.invis1 {
 	display: block;
 	text-align: center;
 	margin-bottom: 15px;
-	background: #8dbd56;
+	background: #008037;
 	color: #ffffff;
 	padding: 10px 0px;
 	box-shadow: 0 7px 10px #e6e6e6;
@@ -2470,7 +2470,7 @@ select.mobile-device {
 }
 
 .contact_form .form-control {
-    background-color: #8dbd56;
+    background-color: #008037;
     margin-bottom: 30px;
     border: 1px solid #ebebeb;
     box-sizing: border-box;
@@ -2655,7 +2655,7 @@ select.mobile-device {
     text-decoration: none;
 }
 .footer-distributed .footer-links a:hover{
-	color: #8dbd56;
+	color: #008037;
 }
 
 .footer-distributed .footer-company-name {
@@ -2728,7 +2728,7 @@ select.mobile-device {
 }
 
 .footer-distributed .footer-company-name a{
-	color: #8dbd56;
+	color: #008037;
 }
 
 .footer-distributed .footer-company-name a:hover{
@@ -2749,7 +2749,7 @@ select.mobile-device {
 
 .ph-fonts-style {
     font-size: 18px;
-    color: #664a3f;
+    color: #FF1616;
     font-weight: 500;
     padding: 0;
 }
@@ -2762,7 +2762,7 @@ select.mobile-device {
 	float: left;
 	width: 40px;
 	height: 40px;
-	background: #664a3f;
+	background: #FF1616;
 	text-align: center;
 	line-height: 40px;
 	margin-top: 5px;
@@ -2783,7 +2783,7 @@ select.mobile-device {
 }
 
 .cont-dit p a:hover{
-	color: #8dbd56;
+	color: #008037;
 }
 .form-inline .form-group {
     width: 100%;
@@ -2797,16 +2797,16 @@ select.mobile-device {
 .form-inline .form-group .form-control {
     width: 100%;
     min-height: 45px;
-    border: 1px solid #664a3f;
+    border: 1px solid#FF1616;
     border-radius: 0;
 }
 .form-inline .form-group .form-control:focus{
-	border: 1px solid #8dbd56;
+	border: 1px solid #008037;
 	box-shadow: none;
 }
 
 .btn-primary{
-	background-color: #664a3f !important;
+	background-color: #FF1616 !important;
 	border: none;
 	border-radius: 0px;
 	padding: 10px 18px;
@@ -2817,14 +2817,14 @@ select.mobile-device {
 }
 .ph-links-column li a{
 	display: block;
-	color: #664a3f;
+	color: #FF1616;
 	position: relative;
 }
 .ph-links-column li a::after {
     content: '';
     width: 0;
     height: 1px;
-    border: 1px dashed #8dbd56;
+    border: 1px dashed #008037;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -2836,7 +2836,7 @@ select.mobile-device {
     z-index: 0;
 }
 .ph-links-column li a:hover{
-	color: #8dbd56;
+	color: #008037;
 }
 
 .ph-links-column li a:hover::after {
@@ -2889,7 +2889,7 @@ select.mobile-device {
 }
 
 .dmtop:hover{
-	background: #8dbd56;
+	background: #008037;
 }
 
 .icon_wrap {
@@ -2931,7 +2931,7 @@ select.mobile-device {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #8dbd56;
+    background: #008037;
     z-index: 11000;
     position: fixed;
     display: block
